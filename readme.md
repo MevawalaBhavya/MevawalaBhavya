@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Bhavya, A passionate Software developer pursing MS in Computer Science. </div>  
+### <div align="center">Hi 👋, I'm Bhavya Mevawala, A passionate Software developer pursing MS in Computer Science. </div>  
   
 
 -  I’m currently looking for co-op/ full time opportunities.  
