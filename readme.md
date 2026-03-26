@@ -56,13 +56,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MevawalaBhavya&show_icons=true&count_private=true&hide_border=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MevawalaBhavya&show_icons=true&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MevawalaBhavya&layout=compact&theme=react&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MevawalaBhavya&langs_count=8&layout=compact&theme=react&hide_border=true" />
-</p>
-
 ---
 
 ## 🤝 Connect with Me
